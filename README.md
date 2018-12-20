@@ -1,6 +1,6 @@
 # Palindrome detector
 
-`aadigamov_palindrome` is a sample Ruby gem created in [*Learn Enough Ruby to Be Dangerous*](https://www.learnenough.com/ruby-tutorial) by Michael Hartl.
+`aadigamov_palindrome` is a sample Ruby gem created during studying [*Learn Enough Ruby to Be Dangerous*](https://www.learnenough.com/ruby-tutorial) by Anton Adigamov.
 
 ## Installation
 
@@ -39,7 +39,3 @@ $ irb
 >> phrase.palindrome?
 => true
 ```
-
-## License
-
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
